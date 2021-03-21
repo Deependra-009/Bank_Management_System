@@ -11,6 +11,14 @@
   <h4> * Username :- root  </h4>
   <h4> * Password :- deependra  </h4>
   <h4> * Address :- 127.0.0.1  </h4>
+  
  
+ <h2> OTHERS DETAILS:-</h2>
+  <h4> * IDE: Apache Netbeans 12.3  </h4>
+  <h4> * Maven Project </h4>
+  <h4> * OS : LINUX (UBUNTU)  </h4>
     
 
+ICONS FOLDER AND MYSQLJCONNECTOR are also uploded.If the icons not download so download it and paste into a specific Location.
+
+==> file:/home/deependra/CODE/JAVA/Projects/Project%20-1%20(Bank%20Management%20System)/Bank-Management-System/lib/ICONS/images.
