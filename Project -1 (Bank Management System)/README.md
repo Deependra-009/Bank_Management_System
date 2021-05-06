@@ -1,4 +1,4 @@
-<h1> Project 1:- Bank Management System </h1>
+<h1> Project:- Bank Management System </h1>
 
 
 <h4> * It is a JAVA Project </h4>
