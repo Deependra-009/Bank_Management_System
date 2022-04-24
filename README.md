@@ -19,6 +19,10 @@
   <h4> * Maven Project </h4>
   <h4> * OS : LINUX (UBUNTU)  </h4>
     
+    
+## Download this project -> open project in netbeans -> right click on dependencies -> jar file already present -> right click on this jar file ->
+    click manual install artifact -> browse the jar file and click ok.
+    
 
 ## SQL script are available in a other folder ,download it and paste in a mysql workbench.
 
